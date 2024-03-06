@@ -1,4 +1,4 @@
 # inventorymngmentsystem
 creating my first ever folder wow
 <br>
-<nav>abdul rahman</nav>
+<nav color:red>abdul rahman</nav>
